@@ -1,0 +1,18 @@
+.hideEzTab {
+    display: none;
+}
+
+.showEzTab {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+/* // if using float, Bootstrap */
+/* 
+.showEzTab {
+    display: block; 
+} 
+*/
+
